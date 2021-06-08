@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DIaz Jubairy
+- 👋 Hi, I’m Diaz Jubairy
 - 👀 I’m interested in data analytics and data science 
 - 🌱 I’m currently learning SQL,Python, Spreadsheet, statistics for Data analysis and Data Visualization
 - 💞️ I’m looking for oppportunity to work in data analytics related role like data analyst, bussinest analyst, bussines inteligence, digital marketing
